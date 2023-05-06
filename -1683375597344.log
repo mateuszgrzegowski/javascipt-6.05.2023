@@ -1,0 +1,12 @@
+index.html:17 hello!
+index.html:18 world
+index.html:27 undefined
+index.html:30 10
+index.html:33 10.5
+index.html:36 hi
+index.html:39 hi
+index.html:42 he"ll"o
+index.html:45 he'll'o
+World
+index.html:48 false
+index.html:51 null
